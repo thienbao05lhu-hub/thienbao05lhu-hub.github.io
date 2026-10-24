@@ -3,7 +3,7 @@ name: Deploy portfolio to GitHub Pages
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 permissions:
@@ -28,27 +28,23 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
+      - name: Prepare website files
+        run: |
+          mkdir -p _site/images _site/videos
+          cp index.html style.css "Curriculum Vitae.pdf" "Curriculum Vitae (English).pdf" _site/
+          cp -R images/. _site/images/
+          cp videos/encoder-dc-motor-silent.mp4 videos/encoder-poster.jpg \
+            videos/mastercam-machining-poster.jpg videos/mastercam-machining-silent.mp4 \
+            videos/mastercam-milling-poster.jpg videos/mastercam-milling-silent.mp4 \
+            videos/one-preview.jpg videos/pwm-hmi-dc-motor-silent.mp4 \
+            videos/pwm-hmi-poster.jpg videos/solid-preview.jpg \
+            videos/solidworks-conveyor-silent.mp4 videos/solidworks-engine-silent.mp4 \
+            _site/videos/
+
       - name: Upload website files
         uses: actions/upload-pages-artifact@v3
         with:
-          path: |
-            index.html
-            style.css
-            Curriculum Vitae.pdf
-            Curriculum Vitae (English).pdf
-            images/
-            videos/encoder-dc-motor-silent.mp4
-            videos/encoder-poster.jpg
-            videos/mastercam-machining-poster.jpg
-            videos/mastercam-machining-silent.mp4
-            videos/mastercam-milling-poster.jpg
-            videos/mastercam-milling-silent.mp4
-            videos/one-preview.jpg
-            videos/pwm-hmi-dc-motor-silent.mp4
-            videos/pwm-hmi-poster.jpg
-            videos/solid-preview.jpg
-            videos/solidworks-conveyor-silent.mp4
-            videos/solidworks-engine-silent.mp4
+          path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment
