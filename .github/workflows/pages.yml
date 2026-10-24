@@ -1,0 +1,55 @@
+name: Deploy portfolio to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload website files
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: |
+            index.html
+            style.css
+            Curriculum Vitae.pdf
+            Curriculum Vitae (English).pdf
+            images/
+            videos/encoder-dc-motor-silent.mp4
+            videos/encoder-poster.jpg
+            videos/mastercam-machining-poster.jpg
+            videos/mastercam-machining-silent.mp4
+            videos/mastercam-milling-poster.jpg
+            videos/mastercam-milling-silent.mp4
+            videos/one-preview.jpg
+            videos/pwm-hmi-dc-motor-silent.mp4
+            videos/pwm-hmi-poster.jpg
+            videos/solid-preview.jpg
+            videos/solidworks-conveyor-silent.mp4
+            videos/solidworks-engine-silent.mp4
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
