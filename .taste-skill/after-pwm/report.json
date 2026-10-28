@@ -1,0 +1,2782 @@
+{
+ "url": "index.html",
+ "at": "2026-10-23T13:30:37.314Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.88,
+    0.64,
+    0.48,
+    0.81,
+    0.92,
+    0.38,
+    0.61,
+    0.6,
+    0.53
+   ],
+   "motion": {
+    "elements": 2,
+    "css": 2,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 2,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 8034,
+     "screens": 8.9,
+     "words": 1994,
+     "img": 5,
+     "video": 2,
+     "canvas": 0,
+     "svg": 42,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 2,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "avatar.jpg",
+      "photo-1485827404703-89b55fcc595e?auto=format&fit",
+      "photo-1581092162384-8987c1d64718?auto=format&fit"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [
+      "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=700&q=80"
+     ],
+     "emoji": [],
+     "videosNoPoster": 2
+    },
+    "hero": {
+     "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+     "words": 10,
+     "chars": 44,
+     "lines": 3,
+     "size": 60,
+     "vw": 4.2,
+     "font": "Plus Jakarta Sans",
+     "weight": 800,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.48,
+     "top": 272,
+     "gradientText": true,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+     "words": 10,
+     "lines": 3,
+     "size": 60,
+     "font": "Plus Jakarta Sans"
+    },
+    "headings": [
+     {
+      "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+      "words": 10,
+      "chars": 44,
+      "lines": 3,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 272,
+      "gradientText": true,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Tư duy máy móc & Trách nhiệm nhà xưởng",
+      "words": 9,
+      "chars": 38,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.53,
+      "top": 1068,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Kỹ năng kỹ thuật & Công cụ làm chủ",
+      "words": 9,
+      "chars": 34,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.53,
+      "top": 2205,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Đồ án kỹ thuật & Mô hình thực tế",
+      "words": 9,
+      "chars": 32,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.53,
+      "top": 3255,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Điều khiển PWM & Đo tốc độ Encoder Động cơ DC",
+      "words": 11,
+      "chars": 45,
+      "lines": 2,
+      "size": 34,
+      "vw": 2.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 3401,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Thư gửi Nhà tuyển dụng",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.53,
+      "top": 4770,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Lộ trình đào tạo & Hồ sơ xin việc",
+      "words": 9,
+      "chars": 33,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.53,
+      "top": 5974,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Liên hệ hợp tác & Tuyển dụng",
+      "words": 7,
+      "chars": 28,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.53,
+      "top": 7083,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 6,
+     "medianWords": 9,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.83,
+       "mono": false
+      },
+      {
+       "family": "JetBrains Mono",
+       "share": 0.17,
+       "mono": true
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      20,
+      24,
+      34,
+      36,
+      60
+     ],
+     "sizeCount": 12,
+     "notLoaded": [],
+     "body": {
+      "font": "Plus Jakarta Sans",
+      "size": 16,
+      "leading": 1.63,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.2
+     },
+     "measureChars": 100,
+     "max": {
+      "size": 60,
+      "vw": 4.2,
+      "font": "Plus Jakarta Sans",
+      "text": "Nhân viên Bảo trì & công nghiệp."
+     },
+     "monoShare": 0.17,
+     "monoProseShare": 0.17,
+     "monoFamilies": [
+      "JetBrains Mono"
+     ],
+     "monoSamples": [
+      "MECHATRONICS & AUTOMATION ENG",
+      "Tải CV",
+      "LHU",
+      "Top",
+      "100%",
+      "THÔNG TIN CÁ NHÂN"
+     ],
+     "microLabels": 7,
+     "microLabelShare": 0.017,
+     "microSamples": [
+      "THÔNG TIN CÁ NHÂN",
+      "01 / VỀ TÔI & ĐỊNH HƯỚNG",
+      "02 / NĂNG LỰC CHUYÊN MÔN",
+      "03 / DỰ ÁN TIÊU BIỂU",
+      "04 / THƯ NGỎ ỨNG TUYỂN",
+      "05 / HỒ SƠ LÝ LỊCH & CV"
+     ],
+     "upperShare": 0.07,
+     "centerShare": 0.1,
+     "smallText": 77
+    },
+    "eyebrows": [
+     {
+      "text": "SẴN SÀNG NHẬN VIỆC (OPEN TO WORK)",
+      "above": "Nhân viên Bảo trì & Tự động hóa công ngh",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 225
+     },
+     {
+      "text": "01 / VỀ TÔI & ĐỊNH HƯỚNG",
+      "above": "Tư duy máy móc & Trách nhiệm nhà xưởng",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 1028
+     },
+     {
+      "text": "02 / NĂNG LỰC CHUYÊN MÔN",
+      "above": "Kỹ năng kỹ thuật & Công cụ làm chủ",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 2165
+     },
+     {
+      "text": "03 / DỰ ÁN TIÊU BIỂU",
+      "above": "Đồ án kỹ thuật & Mô hình thực tế",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 3215
+     },
+     {
+      "text": "04 / THƯ NGỎ ỨNG TUYỂN",
+      "above": "Thư gửi Nhà tuyển dụng",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 4730
+     },
+     {
+      "text": "05 / HỒ SƠ LÝ LỊCH & CV",
+      "above": "Lộ trình đào tạo & Hồ sơ xin việc",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 5934
+     },
+     {
+      "text": "06 / KẾT NỐI TRỰC TIẾP",
+      "above": "Liên hệ hợp tác & Tuyển dụng",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 7043
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / VỀ TÔI & ĐỊNH HƯỚNG",
+      "size": 12,
+      "top": 1028
+     },
+     {
+      "text": "02 / NĂNG LỰC CHUYÊN MÔN",
+      "size": 12,
+      "top": 2165
+     },
+     {
+      "text": "03 / DỰ ÁN TIÊU BIỂU",
+      "size": 12,
+      "top": 3215
+     },
+     {
+      "text": "04 / THƯ NGỎ ỨNG TUYỂN",
+      "size": 12,
+      "top": 4730
+     },
+     {
+      "text": "05 / HỒ SƠ LÝ LỊCH & CV",
+      "size": 12,
+      "top": 5934
+     },
+     {
+      "text": "06 / KẾT NỐI TRỰC TIẾP",
+      "size": 12,
+      "top": 7043
+     }
+    ],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f8fafc",
+       "top": 916,
+       "hsl": {
+        "h": 210,
+        "s": 0.4,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 2053,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#475569",
+       "share": 0.38
+      },
+      {
+       "color": "#1e293b",
+       "share": 0.18
+      },
+      {
+       "color": "#0f172a",
+       "share": 0.17
+      },
+      {
+       "color": "#64748b",
+       "share": 0.16
+      },
+      {
+       "color": "#334155",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "STATUS: SENIOR STUDENT (NĂM CUỐI)",
+       "ratio": 2.6,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#94a3b8",
+       "bg": "#ffffff"
+      },
+      {
+       "text": "TOP CẤP TRƯỜNG",
+       "ratio": 3.2,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#d97706",
+       "bg": "#ffffff"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 11,
+     "inHero": 4,
+     "radius": 12,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 1,
+     "upper": 1,
+     "heroLabels": [
+      "TẢI CV",
+      "Liên Hệ Ngay",
+      "Xem Dự Án Kỹ Thuật",
+      "Liên Hệ Phỏng Vấn"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 26,
+     "shadowOverlay": 5,
+     "shadowSamples": [
+      "div.relative.w-full → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(15, 23,",
+      "div.inline-flex.items-center → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0",
+      "a.w-full.sm:w-auto → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(2, 132,",
+      "a.w-full.sm:w-auto → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0"
+     ],
+     "gradients": 1,
+     "scrims": 2,
+     "gradientSamples": [
+      "div.relative.w-48 → linear-gradient(to right top, rgb(3, 105, 161), rgb(56, 189, 248), rgb(37, 99, 235))"
+     ],
+     "gradientText": 1,
+     "hairlines": 29,
+     "hairlineSamples": [
+      "header.sticky.top-0 1440px",
+      "section#hero.relative.pt-12 1440px",
+      "div.grid.grid-cols-3 512px",
+      "div.flex.items-center 406px",
+      "section#about.py-20.md:py-28 1440px"
+     ],
+     "outlinedBoxes": 27,
+     "dashed": 0,
+     "blurred": 4,
+     "roundedBoxes": 29,
+     "boxRadius": 16,
+     "squareMedia": 2,
+     "roundedMedia": 4,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 2351
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 4003
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 9,
+     "fixed": true,
+     "height": 97,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "jetbrains mono",
+     "plus jakarta sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 8034,
+    "margins": {
+     "left": 112,
+     "right": 132
+    },
+    "sections": [
+     {
+      "sel": "section#hero.relative.pt-12",
+      "tag": "section",
+      "top": 97,
+      "height": 819,
+      "words": 127,
+      "media": 1,
+      "middle": 137,
+      "heading": {
+       "text": "Nhân viên Bảo trì &",
+       "size": 60,
+       "tag": "h1"
+      },
+      "left": 112,
+      "right": 143,
+      "textLeft": 112,
+      "textRight": 143,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.py-20.md:py-28",
+      "tag": "section",
+      "top": 916,
+      "height": 1137,
+      "words": 297,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Tư duy máy móc & Trách nhiệm nhà xưởng",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 145,
+      "right": 145,
+      "textLeft": 145,
+      "textRight": 145,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#skills.py-20.md:py-28",
+      "tag": "section",
+      "top": 2053,
+      "height": 1050,
+      "words": 323,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Kỹ năng kỹ thuật & Công cụ làm chủ",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 145,
+      "right": 150,
+      "textLeft": 145,
+      "textRight": 150,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#projects.py-20.md:py-28",
+      "tag": "section",
+      "top": 3103,
+      "height": 1515,
+      "words": 315,
+      "media": 5,
+      "middle": 0,
+      "heading": {
+       "text": "Đồ án kỹ thuật & Mô hình thực tế",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 112,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#cover-letter.py-20.md:py-28",
+      "tag": "section",
+      "top": 4618,
+      "height": 1204,
+      "words": 326,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Thư gửi Nhà tuyển dụng",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 321,
+      "right": 297,
+      "textLeft": 321,
+      "textRight": 310,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#resume.py-20.md:py-28",
+      "tag": "section",
+      "top": 5822,
+      "height": 1109,
+      "words": 298,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Lộ trình đào tạo & Hồ sơ xin việc",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 142,
+      "right": 170,
+      "textLeft": 142,
+      "textRight": 170,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": true
+     },
+     {
+      "sel": "section#contact.py-20.md:py-28",
+      "tag": "section",
+      "top": 6931,
+      "height": 1022,
+      "words": 131,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Liên hệ hợp tác & Tuyển dụng",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 257,
+      "right": 290,
+      "textLeft": 257,
+      "textRight": 354,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+      "size": 60,
+      "top": 272,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 137,
+      "n": 14
+     },
+     {
+      "x": 112,
+      "n": 6
+     },
+     {
+      "x": 969,
+      "n": 6
+     },
+     {
+      "x": 553,
+      "n": 5
+     },
+     {
+      "x": 321,
+      "n": 4
+     },
+     {
+      "x": 207,
+      "n": 1
+     },
+     {
+      "x": 257,
+      "n": 1
+     },
+     {
+      "x": 623,
+      "n": 1
+     },
+     {
+      "x": 689,
+      "n": 1
+     },
+     {
+      "x": 1039,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 40,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.13,
+    "voidBox": {
+     "x": 0,
+     "y": 780,
+     "w": 1440,
+     "h": 120
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    0.89,
+    0.81,
+    0.44,
+    0.59,
+    0.63,
+    0.94,
+    0.74,
+    0.5,
+    0.82,
+    0.58,
+    0.58
+   ],
+   "motion": {
+    "elements": 2,
+    "css": 2,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 2,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 10869,
+     "screens": 10.6,
+     "words": 1981,
+     "img": 5,
+     "video": 2,
+     "canvas": 0,
+     "svg": 42,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 2,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "avatar.jpg",
+      "photo-1485827404703-89b55fcc595e?auto=format&fit",
+      "photo-1581092162384-8987c1d64718?auto=format&fit"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [
+      "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=700&q=80"
+     ],
+     "emoji": [],
+     "videosNoPoster": 2
+    },
+    "hero": {
+     "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+     "words": 10,
+     "chars": 44,
+     "lines": 2,
+     "size": 48,
+     "vw": 6.3,
+     "font": "Plus Jakarta Sans",
+     "weight": 800,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.75,
+     "top": 231,
+     "gradientText": true,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+     "words": 10,
+     "lines": 2,
+     "size": 48,
+     "font": "Plus Jakarta Sans"
+    },
+    "headings": [
+     {
+      "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+      "words": 10,
+      "chars": 44,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 231,
+      "gradientText": true,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Tư duy máy móc & Trách nhiệm nhà xưởng",
+      "words": 9,
+      "chars": 38,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 1574,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Kỹ năng kỹ thuật & Công cụ làm chủ",
+      "words": 9,
+      "chars": 34,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 2982,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Đồ án kỹ thuật & Mô hình thực tế",
+      "words": 9,
+      "chars": 32,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 5000,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Thư gửi Nhà tuyển dụng",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 6969,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Lộ trình đào tạo & Hồ sơ xin việc",
+      "words": 9,
+      "chars": 33,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 8277,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Liên hệ hợp tác & Tuyển dụng",
+      "words": 7,
+      "chars": 28,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 9886,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 6,
+     "medianWords": 9,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.83,
+       "mono": false
+      },
+      {
+       "family": "JetBrains Mono",
+       "share": 0.17,
+       "mono": true
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      11,
+      12,
+      13,
+      14,
+      16,
+      18,
+      20,
+      24,
+      36,
+      48
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Plus Jakarta Sans",
+      "size": 16,
+      "leading": 1.63,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.2
+     },
+     "measureChars": 78,
+     "max": {
+      "size": 48,
+      "vw": 6.3,
+      "font": "Plus Jakarta Sans",
+      "text": "Nhân viên Bảo trì & công nghiệp."
+     },
+     "monoShare": 0.17,
+     "monoProseShare": 0.17,
+     "monoFamilies": [
+      "JetBrains Mono"
+     ],
+     "monoSamples": [
+      "MECHATRONICS & AUTOMATION ENG",
+      "Tải CV",
+      "LHU",
+      "Top",
+      "100%",
+      "THÔNG TIN CÁ NHÂN"
+     ],
+     "microLabels": 7,
+     "microLabelShare": 0.017,
+     "microSamples": [
+      "THÔNG TIN CÁ NHÂN",
+      "01 / VỀ TÔI & ĐỊNH HƯỚNG",
+      "02 / NĂNG LỰC CHUYÊN MÔN",
+      "03 / DỰ ÁN TIÊU BIỂU",
+      "04 / THƯ NGỎ ỨNG TUYỂN",
+      "05 / HỒ SƠ LÝ LỊCH & CV"
+     ],
+     "upperShare": 0.07,
+     "centerShare": 0.1,
+     "smallText": 77
+    },
+    "eyebrows": [
+     {
+      "text": "SẴN SÀNG NHẬN VIỆC (OPEN TO WORK)",
+      "above": "Nhân viên Bảo trì & Tự động hóa công ngh",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 184
+     },
+     {
+      "text": "01 / VỀ TÔI & ĐỊNH HƯỚNG",
+      "above": "Tư duy máy móc & Trách nhiệm nhà xưởng",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 1534
+     },
+     {
+      "text": "02 / NĂNG LỰC CHUYÊN MÔN",
+      "above": "Kỹ năng kỹ thuật & Công cụ làm chủ",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 2942
+     },
+     {
+      "text": "03 / DỰ ÁN TIÊU BIỂU",
+      "above": "Đồ án kỹ thuật & Mô hình thực tế",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 4960
+     },
+     {
+      "text": "04 / THƯ NGỎ ỨNG TUYỂN",
+      "above": "Thư gửi Nhà tuyển dụng",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 6929
+     },
+     {
+      "text": "05 / HỒ SƠ LÝ LỊCH & CV",
+      "above": "Lộ trình đào tạo & Hồ sơ xin việc",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 8237
+     },
+     {
+      "text": "06 / KẾT NỐI TRỰC TIẾP",
+      "above": "Liên hệ hợp tác & Tuyển dụng",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 9846
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / VỀ TÔI & ĐỊNH HƯỚNG",
+      "size": 12,
+      "top": 1534
+     },
+     {
+      "text": "02 / NĂNG LỰC CHUYÊN MÔN",
+      "size": 12,
+      "top": 2942
+     },
+     {
+      "text": "03 / DỰ ÁN TIÊU BIỂU",
+      "size": 12,
+      "top": 4960
+     },
+     {
+      "text": "04 / THƯ NGỎ ỨNG TUYỂN",
+      "size": 12,
+      "top": 6929
+     },
+     {
+      "text": "05 / HỒ SƠ LÝ LỊCH & CV",
+      "size": 12,
+      "top": 8237
+     },
+     {
+      "text": "06 / KẾT NỐI TRỰC TIẾP",
+      "size": 12,
+      "top": 9846
+     }
+    ],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 684,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f8fafc",
+       "top": 1422,
+       "hsl": {
+        "h": 210,
+        "s": 0.4,
+        "l": 0.98
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#475569",
+       "share": 0.38
+      },
+      {
+       "color": "#1e293b",
+       "share": 0.18
+      },
+      {
+       "color": "#0f172a",
+       "share": 0.17
+      },
+      {
+       "color": "#64748b",
+       "share": 0.16
+      },
+      {
+       "color": "#334155",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "STATUS: SENIOR STUDENT (NĂM CUỐI)",
+       "ratio": 2.6,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#94a3b8",
+       "bg": "#ffffff"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 11,
+     "inHero": 4,
+     "radius": 12,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 1,
+     "upper": 1,
+     "heroLabels": [
+      "TẢI CV",
+      "Liên Hệ Ngay",
+      "Xem Dự Án Kỹ Thuật",
+      "Liên Hệ Phỏng Vấn"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 26,
+     "shadowOverlay": 5,
+     "shadowSamples": [
+      "div.relative.w-full → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(15, 23,",
+      "div.inline-flex.items-center → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0",
+      "a.w-full.sm:w-auto → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(2, 132,",
+      "a.w-full.sm:w-auto → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0"
+     ],
+     "gradients": 1,
+     "scrims": 2,
+     "gradientSamples": [
+      "div.relative.w-48 → linear-gradient(to right top, rgb(3, 105, 161), rgb(56, 189, 248), rgb(37, 99, 235))"
+     ],
+     "gradientText": 1,
+     "hairlines": 25,
+     "hairlineSamples": [
+      "header.sticky.top-0 768px",
+      "section#hero.relative.pt-12 768px",
+      "div.grid.grid-cols-3 512px",
+      "div.flex.items-center 406px",
+      "section#about.py-20.md:py-28 768px"
+     ],
+     "outlinedBoxes": 18,
+     "dashed": 0,
+     "blurred": 4,
+     "roundedBoxes": 20,
+     "boxRadius": 16,
+     "squareMedia": 2,
+     "roundedMedia": 4,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 5685
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.08
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": true,
+     "height": 97,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "jetbrains mono",
+     "plus jakarta sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 10869,
+    "margins": {
+     "left": 24,
+     "right": 30
+    },
+    "sections": [
+     {
+      "sel": "section#hero.relative.pt-12",
+      "tag": "section",
+      "top": 97,
+      "height": 1325,
+      "words": 127,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Nhân viên Bảo trì &",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 76,
+      "textLeft": 24,
+      "textRight": 76,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.py-20.md:py-28",
+      "tag": "section",
+      "top": 1422,
+      "height": 1407,
+      "words": 297,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Tư duy máy móc & Trách nhiệm nhà xưởng",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 30,
+      "right": 30,
+      "textLeft": 30,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#skills.py-20.md:py-28",
+      "tag": "section",
+      "top": 2830,
+      "height": 2019,
+      "words": 323,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Kỹ năng kỹ thuật & Công cụ làm chủ",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 57,
+      "right": 59,
+      "textLeft": 57,
+      "textRight": 59,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#projects.py-20.md:py-28",
+      "tag": "section",
+      "top": 4848,
+      "height": 1969,
+      "words": 315,
+      "media": 5,
+      "middle": 0,
+      "heading": {
+       "text": "Đồ án kỹ thuật & Mô hình thực tế",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#cover-letter.py-20.md:py-28",
+      "tag": "section",
+      "top": 6817,
+      "height": 1308,
+      "words": 326,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Thư gửi Nhà tuyển dụng",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 73,
+      "right": 49,
+      "textLeft": 73,
+      "textRight": 62,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#resume.py-20.md:py-28",
+      "tag": "section",
+      "top": 8125,
+      "height": 1609,
+      "words": 298,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Lộ trình đào tạo & Hồ sơ xin việc",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 37,
+      "right": 26,
+      "textLeft": 37,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.py-20.md:py-28",
+      "tag": "section",
+      "top": 9734,
+      "height": 1038,
+      "words": 131,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Liên hệ hợp tác & Tuyển dụng",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 33,
+      "right": 33,
+      "textLeft": 33,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+      "size": 48,
+      "top": 231,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 49,
+      "n": 18
+     },
+     {
+      "x": 24,
+      "n": 5
+     },
+     {
+      "x": 73,
+      "n": 5
+     },
+     {
+      "x": 119,
+      "n": 3
+     },
+     {
+      "x": 305,
+      "n": 3
+     },
+     {
+      "x": 553,
+      "n": 3
+     },
+     {
+      "x": 425,
+      "n": 2
+     },
+     {
+      "x": 379,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 40,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.99,
+    0.68,
+    0.5,
+    0.41,
+    0.48,
+    0.66,
+    0.81,
+    0.83,
+    1,
+    0.62,
+    0.58,
+    0.61
+   ],
+   "motion": {
+    "elements": 2,
+    "css": 2,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 2,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 14465,
+     "screens": 17.1,
+     "words": 1975,
+     "img": 5,
+     "video": 2,
+     "canvas": 0,
+     "svg": 42,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 2,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "avatar.jpg",
+      "photo-1485827404703-89b55fcc595e?auto=format&fit",
+      "photo-1581092162384-8987c1d64718?auto=format&fit"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [
+      "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=700&q=80"
+     ],
+     "emoji": [],
+     "videosNoPoster": 2
+    },
+    "hero": {
+     "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+     "words": 10,
+     "chars": 44,
+     "lines": 3,
+     "size": 36,
+     "vw": 9.2,
+     "font": "Plus Jakarta Sans",
+     "weight": 800,
+     "tracking": -0.025,
+     "leading": 1.12,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 180,
+     "gradientText": true,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+     "words": 10,
+     "lines": 3,
+     "size": 36,
+     "font": "Plus Jakarta Sans"
+    },
+    "headings": [
+     {
+      "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+      "words": 10,
+      "chars": 44,
+      "lines": 3,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 180,
+      "gradientText": true,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "LHU",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "JetBrains Mono",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": true,
+      "italic": false,
+      "mono": true,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 711,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Top",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "JetBrains Mono",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": true,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.26,
+      "top": 711,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "100%",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "JetBrains Mono",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": true,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 711,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Tư duy máy móc & Trách nhiệm nhà xưởng",
+      "words": 9,
+      "chars": 38,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1577,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Kỹ năng kỹ thuật & Công cụ làm chủ",
+      "words": 9,
+      "chars": 34,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4008,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Đồ án kỹ thuật & Mô hình thực tế",
+      "words": 9,
+      "chars": 32,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6355,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Điều khiển PWM & Đo tốc độ Encoder Động cơ DC",
+      "words": 11,
+      "chars": 45,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6585,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Thư gửi Nhà tuyển dụng",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 9301,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Lộ trình đào tạo & Hồ sơ xin việc",
+      "words": 9,
+      "chars": 33,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 11111,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Liên hệ hợp tác & Tuyển dụng",
+      "words": 7,
+      "chars": 28,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 12914,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 6,
+     "medianWords": 9,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.84,
+       "mono": false
+      },
+      {
+       "family": "JetBrains Mono",
+       "share": 0.16,
+       "mono": true
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      11,
+      12,
+      14,
+      16,
+      18,
+      20,
+      24,
+      30,
+      36
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Plus Jakarta Sans",
+      "size": 16,
+      "leading": 1.63,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.2
+     },
+     "measureChars": 37,
+     "max": {
+      "size": 36,
+      "vw": 9.2,
+      "font": "Plus Jakarta Sans",
+      "text": "Nhân viên Bảo trì & công nghiệp."
+     },
+     "monoShare": 0.16,
+     "monoProseShare": 0.16,
+     "monoFamilies": [
+      "JetBrains Mono"
+     ],
+     "monoSamples": [
+      "MECHATRONICS & AUTOMATION ENG",
+      "LHU",
+      "Top",
+      "100%",
+      "THÔNG TIN CÁ NHÂN",
+      "26/09/2005"
+     ],
+     "microLabels": 7,
+     "microLabelShare": 0.017,
+     "microSamples": [
+      "THÔNG TIN CÁ NHÂN",
+      "01 / VỀ TÔI & ĐỊNH HƯỚNG",
+      "02 / NĂNG LỰC CHUYÊN MÔN",
+      "03 / DỰ ÁN TIÊU BIỂU",
+      "04 / THƯ NGỎ ỨNG TUYỂN",
+      "05 / HỒ SƠ LÝ LỊCH & CV"
+     ],
+     "upperShare": 0.07,
+     "centerShare": 0.1,
+     "smallText": 82
+    },
+    "eyebrows": [
+     {
+      "text": "SẴN SÀNG NHẬN VIỆC (OPEN TO WORK)",
+      "above": "Nhân viên Bảo trì & Tự động hóa công ngh",
+      "upper": true,
+      "tracked": false,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 133
+     },
+     {
+      "text": "01 / VỀ TÔI & ĐỊNH HƯỚNG",
+      "above": "Tư duy máy móc & Trách nhiệm nhà xưởng",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 1537
+     },
+     {
+      "text": "02 / NĂNG LỰC CHUYÊN MÔN",
+      "above": "Kỹ năng kỹ thuật & Công cụ làm chủ",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 3968
+     },
+     {
+      "text": "03 / DỰ ÁN TIÊU BIỂU",
+      "above": "Đồ án kỹ thuật & Mô hình thực tế",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 6315
+     },
+     {
+      "text": "04 / THƯ NGỎ ỨNG TUYỂN",
+      "above": "Thư gửi Nhà tuyển dụng",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 9261
+     },
+     {
+      "text": "05 / HỒ SƠ LÝ LỊCH & CV",
+      "above": "Lộ trình đào tạo & Hồ sơ xin việc",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 11071
+     },
+     {
+      "text": "06 / KẾT NỐI TRỰC TIẾP",
+      "above": "Liên hệ hợp tác & Tuyển dụng",
+      "upper": true,
+      "tracked": true,
+      "mono": true,
+      "pill": true,
+      "size": 12,
+      "top": 12874
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01 / VỀ TÔI & ĐỊNH HƯỚNG",
+      "size": 12,
+      "top": 1537
+     },
+     {
+      "text": "02 / NĂNG LỰC CHUYÊN MÔN",
+      "size": 12,
+      "top": 3968
+     },
+     {
+      "text": "03 / DỰ ÁN TIÊU BIỂU",
+      "size": 12,
+      "top": 6315
+     },
+     {
+      "text": "04 / THƯ NGỎ ỨNG TUYỂN",
+      "size": 12,
+      "top": 9261
+     },
+     {
+      "text": "05 / HỒ SƠ LÝ LỊCH & CV",
+      "size": 12,
+      "top": 11071
+     },
+     {
+      "text": "06 / KẾT NỐI TRỰC TIẾP",
+      "size": 12,
+      "top": 12874
+     }
+    ],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 825,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f8fafc",
+       "top": 1457,
+       "hsl": {
+        "h": 210,
+        "s": 0.4,
+        "l": 0.98
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#475569",
+       "share": 0.39
+      },
+      {
+       "color": "#1e293b",
+       "share": 0.18
+      },
+      {
+       "color": "#0f172a",
+       "share": 0.18
+      },
+      {
+       "color": "#64748b",
+       "share": 0.16
+      },
+      {
+       "color": "#334155",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "STATUS: SENIOR STUDENT (NĂM CUỐI)",
+       "ratio": 2.6,
+       "need": 4.5,
+       "size": 12,
+       "fg": "#94a3b8",
+       "bg": "#ffffff"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 9,
+     "inHero": 2,
+     "radius": 12,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Xem Dự Án Kỹ Thuật",
+      "Liên Hệ Phỏng Vấn"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 25,
+     "shadowOverlay": 3,
+     "shadowSamples": [
+      "div.inline-flex.items-center → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0",
+      "a.w-full.sm:w-auto → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(2, 132,",
+      "a.w-full.sm:w-auto → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0",
+      "div.w-full.max-w-md → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(226, 23"
+     ],
+     "gradients": 1,
+     "scrims": 2,
+     "gradientSamples": [
+      "div.relative.w-48 → linear-gradient(to right top, rgb(3, 105, 161), rgb(56, 189, 248), rgb(37, 99, 235))"
+     ],
+     "gradientText": 1,
+     "hairlines": 29,
+     "hairlineSamples": [
+      "header.sticky.top-0 390px",
+      "section#hero.relative.pt-12 390px",
+      "div.grid.grid-cols-3 358px",
+      "div.flex.items-center 324px",
+      "section#about.py-20.md:py-28 390px"
+     ],
+     "outlinedBoxes": 27,
+     "dashed": 0,
+     "blurred": 4,
+     "roundedBoxes": 29,
+     "boxRadius": 16,
+     "squareMedia": 2,
+     "roundedMedia": 3,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 78,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "jetbrains mono",
+     "plus jakarta sans"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 14465,
+    "margins": {
+     "left": 16,
+     "right": 17
+    },
+    "sections": [
+     {
+      "sel": "div.absolute.inset-0",
+      "tag": "div",
+      "top": 78,
+      "height": 1378,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.max-w-7xl.mx-auto",
+      "tag": "div",
+      "top": 126,
+      "height": 1250,
+      "words": 127,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Nhân viên Bảo trì &",
+       "size": 36,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 18,
+      "textLeft": 16,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#about.py-20.md:py-28",
+      "tag": "section",
+      "top": 1457,
+      "height": 2432,
+      "words": 297,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Tư duy máy móc & Trách nhiệm nhà xưởng",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 25,
+      "textLeft": 25,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#skills.py-20.md:py-28",
+      "tag": "section",
+      "top": 3888,
+      "height": 2347,
+      "words": 323,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Kỹ năng kỹ thuật & Công cụ làm chủ",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 19,
+      "right": 19,
+      "textLeft": 19,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#projects.py-20.md:py-28",
+      "tag": "section",
+      "top": 6235,
+      "height": 2945,
+      "words": 315,
+      "media": 5,
+      "middle": 0,
+      "heading": {
+       "text": "Đồ án kỹ thuật & Mô hình thực tế",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#cover-letter.py-20.md:py-28",
+      "tag": "section",
+      "top": 9181,
+      "height": 1810,
+      "words": 325,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Thư gửi Nhà tuyển dụng",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#resume.py-20.md:py-28",
+      "tag": "section",
+      "top": 10991,
+      "height": 1803,
+      "words": 298,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Lộ trình đào tạo & Hồ sơ xin việc",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 21,
+      "right": 17,
+      "textLeft": 21,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#contact.py-20.md:py-28",
+      "tag": "section",
+      "top": 12794,
+      "height": 1543,
+      "words": 131,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Liên hệ hợp tác & Tuyển dụng",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 26,
+      "right": 26,
+      "textLeft": 26,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.py-8.bg-white",
+      "tag": "footer",
+      "top": 14336,
+      "height": 129,
+      "words": 24,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 30,
+      "textLeft": 16,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Nhân viên Bảo trì & Tự động hóa công nghiệp.",
+      "size": 36,
+      "top": 180,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 41,
+      "n": 30
+     },
+     {
+      "x": 16,
+      "n": 6
+     },
+     {
+      "x": 111,
+      "n": 3
+     },
+     {
+      "x": 74,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 40,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "1 headline(s) wrap past two lines at 1440px: \"Nhân viên Bảo trì & Tự động hóa công nghiệp.\" → 3 lines (10 words, 60px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "7 eyebrow/kicker label(s) above headings: \"SẴN SÀNG NHẬN VIỆC (OPEN TO WORK)\" (pill) above \"Nhân viên Bảo trì & Tự động hóa công ngh\"; \"01 / VỀ TÔI & ĐỊNH HƯỚNG\" (pill) above \"Tư duy máy móc & Trách nhiệm nhà xưởng\"; \"02 / NĂNG LỰC CHUYÊN MÔN\" (pill) above \"Kỹ năng kỹ thuật & Công cụ làm chủ\"; \"03 / DỰ ÁN TIÊU BIỂU\" (pill) above \"Đồ án kỹ thuật & Mô hình thực tế\"; \"04 / THƯ NGỎ ỨNG TUYỂN\" (pill) above \"Thư gửi Nhà tuyển dụng\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "mono",
+   "width": 1440,
+   "message": "Monospace type outside code: JetBrains Mono — e.g. \"MECHATRONICS & AUTOMATION ENG\", \"Tải CV\", \"LHU\", \"Top\"",
+   "fix": "Set it in the text face. Monospace is for literal code inside <pre>/<code> only.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1440,
+   "message": "Decorative index numbers: \"01 / VỀ TÔI & ĐỊNH HƯỚNG\", \"02 / NĂNG LỰC CHUYÊN MÔN\", \"03 / DỰ ÁN TIÊU BIỂU\", \"04 / THƯ NGỎ ỨNG TUYỂN\", \"05 / HỒ SƠ LÝ LỊCH & CV\", \"06 / KẾT NỐI TRỰC TIẾP\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "7 tiny uppercase letter-spaced labels (e.g. \"THÔNG TIN CÁ NHÂN\", \"01 / VỀ TÔI & ĐỊNH HƯỚNG\", \"02 / NĂNG LỰC CHUYÊN MÔN\", \"03 / DỰ ÁN TIÊU BIỂU\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "1 gradient fill(s): div.relative.w-48 → linear-gradient(to right top, rgb(3, 105, 161), rgb(56, 189, 248), rgb(37, 99, 235))",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient-text",
+   "width": 1440,
+   "message": "1 gradient-filled text element(s).",
+   "fix": "Solid colour text.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "26 box-shadow(s) on elements at rest: div.relative.w-full → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(15, 23, | div.inline-flex.items-center → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0 | a.w-full.sm:w-auto → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(2, 132,",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "29 thin rule(s)/divider line(s): header.sticky.top-0 1440px | section#hero.relative.pt-12 1440px | div.grid.grid-cols-3 512px | div.flex.items-center 406px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "27 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "glass",
+   "width": 1440,
+   "message": "4 backdrop-blur surfaces.",
+   "fix": "One blurred sticky bar at most; glass cards are a tell.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "icon-cards",
+   "width": 1440,
+   "message": "1 row(s) of identical cards each topped with a small icon (3 cards).",
+   "fix": "Replace with one composed section from the direction: a narrative split, a list set in large type, or real imagery per item."
+  },
+  {
+   "level": "WARN",
+   "id": "contrast",
+   "width": 1440,
+   "message": "Low-contrast text: \"STATUS: SENIOR STUDENT (NĂM CUỐI)\" 2.6:1 needs 4.5:1; \"TOP CẤP TRƯỜNG\" 3.2:1 needs 4.5:1",
+   "fix": "Darken or lighten the text colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "12 different font sizes (11, 12, 13, 14, 15, 16, 18, 20, 24, 34, 36, 60).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-poster",
+   "width": 1440,
+   "message": "2 clip(s) without a poster.",
+   "fix": "Give every clip a poster frame: in the study of 100 Sites of the Day only 31% had one, and the blank or grey boxes before the clips played were recorded as faults (references/imagery.md §11).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 100 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch)."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "77 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "broken-image",
+   "width": 1440,
+   "message": "Broken image(s): https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=700&q=80",
+   "fix": "Fix the URL or replace the asset.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "focal-point",
+   "width": 1440,
+   "message": "The first screen has no dominant element: the largest type is 60px (4.2vw) and no single picture holds a third of the viewport.",
+   "fix": "Make one thing lead: the headline at display size, or one large picture. A grid of many small pictures is not one thing; in blind tests jurors marked a first screen without a headline down every time. On the strongest studied sites the largest type has a median of 8.4vw."
+  },
+  {
+   "level": "WARN",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt Hanken Grotesk and Hanken Grotesk, but the page renders Plus Jakarta Sans, JetBrains Mono.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 112px on the left, 132px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  },
+  {
+   "level": "FAIL",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Only 2 element(s) moved while the page loaded and scrolled.",
+   "fix": "Build the motion layer (SKILL.md step 9, references/motion.md): the signature move, an entrance for the parts of every section, feedback on every control, and one moving picture. Transform and opacity only, with a reduced-motion fallback."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"Nhân viên Bảo trì & Tự động hóa công nghiệp.\" → 3 lines (10 words, 36px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\CV_Skill\\E-Portfitio\\.taste-skill\\after-pwm\\desktop-fold.jpg",
+   "pages": [
+    "D:\\CV_Skill\\E-Portfitio\\.taste-skill\\after-pwm\\desktop-page-01.jpg",
+    "D:\\CV_Skill\\E-Portfitio\\.taste-skill\\after-pwm\\desktop-page-02.jpg",
+    "D:\\CV_Skill\\E-Portfitio\\.taste-skill\\after-pwm\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\CV_Skill\\E-Portfitio\\.taste-skill\\after-pwm\\tablet-fold.jpg",
+   "pages": [
+    "D:\\CV_Skill\\E-Portfitio\\.taste-skill\\after-pwm\\tablet-page-01.jpg",
+    "D:\\CV_Skill\\E-Portfitio\\.taste-skill\\after-pwm\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\CV_Skill\\E-Portfitio\\.taste-skill\\after-pwm\\mobile-fold.jpg",
+   "pages": [
+    "D:\\CV_Skill\\E-Portfitio\\.taste-skill\\after-pwm\\mobile-page-01.jpg",
+    "D:\\CV_Skill\\E-Portfitio\\.taste-skill\\after-pwm\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
